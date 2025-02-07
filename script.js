@@ -5,7 +5,7 @@ function compute()
 
 function updateRate(){
     let rateval = document.getElementById("rate").value;
-    document.getElementById("rate_val").innerText = rateva
+    document.getElementById("rate_val").innerText = rateval;
 }   
         
 function compute() {
